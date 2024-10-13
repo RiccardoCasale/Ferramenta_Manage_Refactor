@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\repositories\\prodottorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\repositories\\prodottorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\repositories\\repartorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\repositories\\repartorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\models\\prodottodtoinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\models\\prodottodtoinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\utente\\documents\\workspace c#\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reparto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\Reparto.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Models\\Reparto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\Reparto.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Models\\Reparto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:55:52.854Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdottoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Repositories\\ProdottoRepository.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Repositories\\ProdottoRepository.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Repositories\\ProdottoRepository.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Repositories\\ProdottoRepository.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAowCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:39:29.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:50:19.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepartoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Repositories\\RepartoRepository.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Repositories\\RepartoRepository.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Repositories\\RepartoRepository.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Repositories\\RepartoRepository.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwGYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:45:43.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepartoService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Services\\RepartoService.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Services\\RepartoService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Services\\RepartoService.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Services\\RepartoService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAGkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:46:29.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdottoDTOInsert.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\ProdottoDTOInsert.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Models\\ProdottoDTOInsert.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\ProdottoDTOInsert.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Models\\ProdottoDTOInsert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:12:41.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepartoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Controllers\\RepartoController.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Controllers\\RepartoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Controllers\\RepartoController.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Controllers\\RepartoController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:51:05.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepartoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\RepartoDTO.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Models\\RepartoDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\RepartoDTO.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Models\\RepartoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:47:40.303Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdottoService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Services\\ProdottoService.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Services\\ProdottoService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Services\\ProdottoService.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Services\\ProdottoService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:47:59.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "5361e330-6b9e-48ca-9bcd-66cf24afd80d",
+        "Display": 0,
+        "X": 597,
+        "Y": 149,
+        "Width": 958,
+        "Height": 690,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\Prodotto.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Models\\Prodotto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:11:46.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9d15b193-1089-468f-84ca-2c31586cd285",
+        "Display": 0,
+        "X": 1498,
+        "Y": 110,
+        "Width": 813,
+        "Height": 856,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdottoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\ProdottoDTO.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Models\\ProdottoDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\workspace c#\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\ProdottoDTO.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Models\\ProdottoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:08:54.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
